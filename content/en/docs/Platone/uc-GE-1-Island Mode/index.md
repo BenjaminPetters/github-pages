@@ -1,13 +1,13 @@
 ---
 title: "UC 1 - Island Mode"
-linkTitle: "title of Use Case"
-date: 2020-mm-dd
+linkTitle: "Island Mode"
+date: 2020-05-06
 description: >
-  Name of use case (abbreviation)
+  UC 1 (abbreviation)
 ---
 
 ## 1 Description of the Use Case
-
+Use case 1 aims to enable local islanding of a local energy comunity and maximize consumption of locally produced energy is geographic proximity. The use case is anticipated to emerge as a result of the Clean Energy Package, driven by the bottom-up demand of customers and local communities. It is a prerequisite for the advanced use cases 2-4 which investigate ways to coordinate the interconnected distribution network with local energy communities.
 
 ### 1.1 Name of the Use Case
 
@@ -18,7 +18,7 @@ description: >
 <th><strong>Area /<br />
 Domain(s)/<br />
 Zone(s)</strong></th>
-<th><strong>Name of the Use Case</strong></th>
+<th><strong>Island Mode</strong></th>
 </tr>
 </thead>
 <tbody>
