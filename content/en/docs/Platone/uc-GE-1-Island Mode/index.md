@@ -1,9 +1,9 @@
 ---
-title: "UC 1 - Island Mode"
+title: "Island Mode"
 linkTitle: "Island Mode"
 date: 2020-05-06
 description: >
-  UC 1 (abbreviation)
+  UC 1
 ---
 
 ## 1 Description of the Use Case
