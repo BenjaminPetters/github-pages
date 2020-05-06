@@ -18,14 +18,14 @@ Use case 1 aims to enable local islanding of a local energy comunity and maximiz
 <th><strong>Area /<br />
 Domain(s)/<br />
 Zone(s)</strong></th>
-<th><strong>Island Mode</strong></th>
+<th><strong>Name of the Use Case</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>132</td>
 <td></td>
-<td>Name of the Use Case (abbr.)</td>
+<td>Island Mode</td>
 </tr>
 </tbody>
 </table>
