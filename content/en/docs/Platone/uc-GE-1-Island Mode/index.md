@@ -1,7 +1,7 @@
 ---
-title: "title of Use Case"
+title: "UC 1 - Island Mode"
 linkTitle: "title of Use Case"
-date: 2020-mm-dd
+date: 2020-05-06
 description: >
   Name of use case (abbreviation)
 ---
