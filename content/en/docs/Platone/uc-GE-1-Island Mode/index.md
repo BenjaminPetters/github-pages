@@ -64,7 +64,7 @@ add text
 
 **Complete description**
 
-add text
+With the implementation of the Clean Energy Package, the role and behavior of private households in energy generation and consumption will change fundamentally. In future private customers households will have the right to organized in energy communities in order to maximize the self-consumption of locally generated energy. Network operators have to adjust to these changes in the network management and continue to ensure safe and reliable power network operation.
 
 
 Data considered by the use case is:
