@@ -39,18 +39,18 @@ Zone(s)</strong></th>
 <thead>
 <tr class="header">
 <th><strong>Scope</strong></th>
-<th>The use case ...</th>
+<th>UC 1</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><strong>Objective(s)</strong></td>
-<td>add text</td>
+<td>Enabling local islanding and maximize consumption of locally generated energy within a bounded grid</td>
 </tr>
 <tr class="even">
 <td><strong>Related business<br />
 case(s) </strong></td>
-<td></td>
+<td>not applicable</td>
 </tr>
 </tbody>
 </table>
