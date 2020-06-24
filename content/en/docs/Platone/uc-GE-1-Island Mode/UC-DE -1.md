@@ -27,6 +27,7 @@
 |0.5|18th June 2020|Thorsten Gross|Review|Draft|
 |0.6|18th June 2020|Benjamin Petters|Revision|Draft|
 |0.7|22nd June 2020|Padraic McKeever|Revision|Draft|
+|0.75|24nd June 2020|Benjamin Petters|Additional Information|Draft|
 
 
 ## 1.3. Scope and Objectives of Use Case
@@ -249,7 +250,7 @@ and receiver has to enforce a waiting period.), REPEAT (A number of steps has to
 | I-03 | Weather forecasts | -	Solar radiation (t + 24h) </br> -	Cloudiness (t + 24 h) </br> -	Temperature (t + 24 h) </br> -	Humidity (t + 24 h) </br> - Windspeed (t + 24 h) | |
 | I-04 | Signal from the ALF-C to PMU at secondary substation | The ALF-C sends a signal to sensors to get current measurements. | |
 | I-05 | Signal from PMU | The PMU sends measurement values containing: voltage (U), current (I) and angle of phase (Phi) values for all 3 phases | |
-| I-06 | Signal from integratd sensors | The measurement of PMU contains voltage (U), current (I) and angle of phase (Phi) values, SOC, SOE and/or temperature | |
+| I-06 | Setpoint to actuators| Setpoint P(t) or setpoint schedule P(t+1) | |
 ***Notes***
 * **Information exchanged ID** - unique number (I-01,I-02...) for identification
 * **Requirements to information data** - optional, defined in section 6
